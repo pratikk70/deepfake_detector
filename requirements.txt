@@ -1,0 +1,9 @@
+torch
+torchvision
+opencv-python==4.11.0.86
+numpy
+scikit-image
+scikit-learn
+matplotlib
+streamlit
+pillow
